@@ -9,13 +9,26 @@
 
 DDDMobileRobot build the 3D navigation stack for mobile robots, we aim at providing the total solution for mobile robots
 
-- [3D Lidar mapping and 3D map editor for post editing](https://github.com/dddmobilerobot/dddmr_lego_loam_bor)
-- [Global planner in 3D terrain map](https://github.com/dddmobilerobot/dddmr_global_planner)
-- [Local planner for mobile robots to navigation in terrain spaces and avoid obstacles](https://github.com/dddmobilerobot/dddmr_local_planner)
-- [Perception 3D for users to plug and play different kinds of sensor](https://github.com/dddmobilerobot/dddmr_perception_3d)
-- [Point to point finite state machie that integrated all modules for beginners](https://github.com/dddmobilerobot/dddmr_p2p_move_base)
+- 3D Lidar mapping and 3D map editor for post editing
+- Global planner in 3D terrain map
+- Local planner for mobile robots to navigation in terrain spaces and avoid obstacles
+- Perception 3D for users to plug and play different kinds of sensor
+- Point to point finite state machie that integrated all modules for beginners
 - Auto docking module (to be released in Sep. 2024)
 
+<div align="center">
+  <div>&nbsp;</div>
+  <div align="center">
+    <b><font size="5">DDD Navigation</font></b>
+    <sup>
+      <a href="https://github.com/dddmobilerobot/dddmr_navigation">
+        <i><font size="4">Clone and enjoy</font></i>
+      </a>
+    </sup>
+</div>
+<div>&nbsp;</div>
+</div>
+  
 <table align='center'>
   <tr width="100%">
     <td width="50%"><img src="https://github.com/dddmobilerobot/dddmr_documentation_materials/blob/main/dddmr_navigation/mapping.gif" width="400" height="260"/><p align='center'>3D mapping</p></td>
@@ -30,3 +43,5 @@ DDDMobileRobot build the 3D navigation stack for mobile robots, we aim at provid
     <td><img src="https://github.com/dddmobilerobot/dddmr_documentation_materials/blob/main/dddmr_navigation/auto_charging.gif" width="400" height="260"/><p align='center'>Auto docking</p></td>
   </tr>
 </table> 
+
+Do not hestitate to email the maintainer if you have trouble in setting up your 3D navigaton stack: yan_1whun1(at)hotmail.com
