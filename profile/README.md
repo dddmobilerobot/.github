@@ -42,6 +42,10 @@ DDDMobileRobot build the 3D navigation stack for mobile robots, we aim at provid
     <td><img src="https://github.com/dddmobilerobot/dddmr_documentation_materials/blob/main/dddmr_navigation/annoying_test.gif" width="400" height="260"/><p align='center'>Obstacle avoidance (annoying test)</p></td>
     <td><img src="https://github.com/dddmobilerobot/dddmr_documentation_materials/blob/main/dddmr_navigation/auto_charging.gif" width="400" height="260"/><p align='center'>Auto docking</p></td>
   </tr>
+  <tr width="100%">
+    <td><img src="https://github.com/dddmobilerobot/dddmr_documentation_materials/blob/main/perception_3d/multilayer_lidar_demo.gif" width="400" height="260"/><p align='center'>Support vairant sensors (Multilayer Lidar)</p></td>
+    <td><img src="https://github.com/dddmobilerobot/dddmr_documentation_materials/blob/main/perception_3d/multi_depth_camera_demo.gif" width="400" height="260"/><p align='center'>Support vairant sensors (Depth Camera)</p></td>
+  </tr>
 </table> 
 
 Do not hestitate to email the maintainer if you have trouble in setting up your 3D navigaton stack: yan_1whun1(at)hotmail.com
