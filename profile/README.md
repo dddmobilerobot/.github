@@ -13,7 +13,7 @@ DDDMobileRobot build the 3D navigation stack for mobile robots, we aim at provid
 - Global planner in 3D terrain map
 - Local planner for mobile robots to navigation in terrain spaces and avoid obstacles
 - Perception 3D for users to plug and play different kinds of sensor
-- Point to point finite state machie that integrated all modules for beginners
+- Navigation stack that integrate all modules for beginners
 - Auto docking module (to be released in Sep. 2024)
 
 <div align="center">
@@ -47,5 +47,3 @@ DDDMobileRobot build the 3D navigation stack for mobile robots, we aim at provid
     <td><img src="https://github.com/dddmobilerobot/dddmr_documentation_materials/blob/main/perception_3d/multi_depth_camera_demo.gif" width="400" height="260"/><p align='center'>Support vairant sensors (Depth Camera)</p></td>
   </tr>
 </table> 
-
-Do not hestitate to email the maintainer if you have trouble in setting up your 3D navigaton stack: yan_1whun1(at)hotmail.com
